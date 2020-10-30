@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "strict": true
+  },
+  "include": [
+    "libs/**/*",
+  ],
+  "exclude": ["node_modules"]
+}
